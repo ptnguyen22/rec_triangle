@@ -1,9 +1,6 @@
 // Copyright [2021] Peter Nguyen
 /*
-Name: Peter Nguyen
-Assignment: ps3
-Instructor: Dr. Yelena Rykalova
-Due: 10/18/21
+Peter Nguyen
 Last Updated: 10/18/21
 Triangle.h: A header file for the Triangle class that
             represents a triangle and is drawable.    
